@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app/icon.png</file>
+        <file>app/bg.png</file>
+        <file>app/icon-minimize.png</file>
+        <file>app/icon-close.png</file>
+        <file>app/prefs.png</file>
+        <file>app/icon-info.png</file>
+        <file>btn/income.png</file>
+        <file>btn/expense.png</file>
+        <file>btn/entries.png</file>
+        <file>btn/history.png</file>
+        <file>btn/add.svg</file>
+        <file>btn/remove.png</file>
+        <file>btn/print.png</file>
+        <file>money/add.png</file>
+        <file>money/remove.png</file>
+        <file>app/icon-maximize.png</file>
+        <file>app/icon-unmaximize.png</file>
+        <file>app/alert.png</file>
+        <file>btn/menubtn.png</file>
+        <file>qt5logo.png</file>
+    </qresource>
+</RCC>
