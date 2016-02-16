@@ -11,6 +11,17 @@ pFinance Keeper is
 pFinance Keeper is currently only available in English.
 More languages may come in the future.
 
+##FEATURES
+
+All versions
+  - Freely editable categories for your earnings and expenses.
+  - Ability to mark an earning as retour item from an expense, useful for returns.
+  - View all your entries in a list sortable by categories or all at once.
+  - Amounts are colored: green for earnings and red for expenses
+
+Android and (iOS)
+  - Coming soon: Backup & Restore feature. Currently greyed out in the app.
+
 ###Supported Platforms
 
  - Linux
